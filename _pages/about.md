@@ -29,13 +29,15 @@ Research Highlights
 **MARS: mmWave-based Assistive Rehabilitation System for Smart Healthcare**
 
 **Sizhe An** and Umit Ogras [[Accepted in ESWEEK 2021, oral presentation](https://github.com/SizheAn/MARS)]
-***
+
+
 ![MGait](/images/exp_setup.png)
 
 **MGait: Model-Based Gait Analysis Using Wearable Bend and Inertial Sensors**
 
 **S An**, Y Tuncel, T Basaklar, GK Krishnakumar, G Bhat, U Ogras [[arxiv](https://arxiv.org/pdf/2102.11895.png)]
-***
+
+
 <!-- **Transfer Learning for Human Activity Recognition using Representational Analysis of Neural Networks**
 
 **S An**, G Bhat, S Gumussoy, U Ogras [[arxiv](https://arxiv.org/abs/2012.04479)] -->
@@ -44,7 +46,8 @@ Research Highlights
 **An ultra-low energy human activity recognition accelerator for wearable health applications**
 
 G Bhat, Y Tuncel, **S An**, HG Lee, UY Ogras [Best paper award at ESWEEK 2019!](https://dl.acm.org/doi/pdf/10.1145/3358175)
-***
+
+
 ![Trends](/images/application_percentagev3.PNG)
 
 
