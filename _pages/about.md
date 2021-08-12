@@ -20,7 +20,7 @@ News
 - July 2021: [Paper accepted for publication in EMBEDDED SYSTEMS WEEK 2021](https://github.com/SizheAn/MARS) 
 - June 2021: Joining [Ambarella](https://www.ambarella.com/) as a computer vision intern
 - November 2020: Passed my qual exam!
-- June 2020: Transferred to UW-Madison from Ariona State
+- June 2020: Transferred to UW-Madison from Arizona State
 - October 2019: Best paper award at EMBEDDED SYSTEMS WEEK 2019! (1/243)
 
 Research Highlights
