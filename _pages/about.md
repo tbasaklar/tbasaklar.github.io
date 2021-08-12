@@ -35,7 +35,7 @@ Research Highlights
 
 **MGait: Model-Based Gait Analysis Using Wearable Bend and Inertial Sensors**
 
-**S An**, Y Tuncel, T Basaklar, GK Krishnakumar, G Bhat, U Ogras [[arxiv](https://arxiv.org/pdf/2102.11895.png)]
+**S An**, Y Tuncel, T Basaklar, GK Krishnakumar, G Bhat, U Ogras [Accepted for publication in ACM Transactions on Internet of Things (TIOT). [arXiv](https://arxiv.org/pdf/2102.11895.png)]
 
 
 <!-- **Transfer Learning for Human Activity Recognition using Representational Analysis of Neural Networks**
