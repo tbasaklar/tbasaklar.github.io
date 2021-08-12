@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Life"
+permalink: /life/
+author_profile: true
+redirect_from:
+  - /life
+---
+
 I love traveling, photography, music, gaming, and basketball.(listed in no particular order LOL)
 
 Travel
