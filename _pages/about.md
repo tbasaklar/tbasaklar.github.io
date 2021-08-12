@@ -33,6 +33,7 @@ Research Highlights
 [Accepted in ESWEEK 2021, oral presentation](https://github.com/SizheAn/MARS)
 
 ![MGait](/images/exp_setup.png)
+
 **MGait: Model-Based Gait Analysis Using Wearable Bend and Inertial Sensors**
 
 **S An**, Y Tuncel, T Basaklar, GK Krishnakumar, G Bhat, U Ogras
@@ -45,7 +46,8 @@ Research Highlights
 
 [arxiv](https://arxiv.org/abs/2012.04479)
 
-![Trends](/images/application_percentagev3.png)
+![Trends](/images/application_percentagev3.PNG)
+
 **Trends in Technology Usage for Parkinson's Disease Assessment: A Systematic Review**
 
 R Deb, G Bhat, **S An**, U Ogras, H Shill
