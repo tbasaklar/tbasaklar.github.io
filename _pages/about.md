@@ -26,6 +26,28 @@ News
 Research Highlights
 ------
 ![MARS](/images/MARS.gif)
+**MARS: mmWave-based Assistive Rehabilitation System for Smart Healthcare**
+**Sizhe An** and Umit Ogras
+[Accepted in ESWEEK 2021, oral presentation](https://github.com/SizheAn/MARS)
+
+![MGait](/images/exp_setup.pdf)
+**MGait: Model-Based Gait Analysis Using Wearable Bend and Inertial Sensors**
+**S An**, Y Tuncel, T Basaklar, GK Krishnakumar, G Bhat, U Ogras
+[arxiv](https://arxiv.org/pdf/2102.11895.pdf)
+
+![MGait](/images/exp_setup.pdf)
+**MGait: Model-Based Gait Analysis Using Wearable Bend and Inertial Sensors**
+**S An**, Y Tuncel, T Basaklar, GK Krishnakumar, G Bhat, U Ogras
+[arxiv](https://arxiv.org/abs/2102.11895)
+
+**Transfer Learning for Human Activity Recognition using Representational Analysis of Neural Networks**
+**S An**, G Bhat, S Gumussoy, U Ogras
+[arxiv](https://arxiv.org/abs/2012.04479)
+
+![Trends](/images/application_percentagev3.pdf)
+**Trends in Technology Usage for Parkinson's Disease Assessment: A Systematic Review**
+R Deb, G Bhat, **S An**, U Ogras, H Shill
+[medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.01.21250939v1.full)
 
 Create content & metadata
 ------
