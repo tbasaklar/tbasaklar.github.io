@@ -41,8 +41,14 @@ Research Highlights
 
 **S An**, G Bhat, S Gumussoy, U Ogras [[arxiv](https://arxiv.org/abs/2012.04479)] -->
 
+![HAR](/images/har_accelerator_overview.png)
+
+**An ultra-low energy human activity recognition accelerator for wearable health applications**
+
+G Bhat, Y Tuncel, **S An**, HG Lee, UY Ogras [Best paper award at ESWEEK 2019!](https://dl.acm.org/doi/pdf/10.1145/3358175)
 
 ![Trends](/images/application_percentagev3.PNG)
+
 
 **Trends in Technology Usage for Parkinson's Disease Assessment: A Systematic Review**
 
