@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, University of Electronic Science and Technology of China, 2018
 * Ph.D in Computer Engineering, University of Wisconsin-Madison, 2023 (expected)
+* B.S. in Electrical Engineering, University of Electronic Science and Technology of China, 2018
+
 
 Work experience
 ======
 * Summer 2021: Computer Vision Intern
   * Ambarella
-  * 3D Human Pose Estimation
-  * Supervisor: Hua Lin
+  * 3D Human Pose Estimation for RGB image with disparity
   
 Skills
 ======
