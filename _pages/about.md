@@ -13,7 +13,7 @@ I am a third-year Ph.D. student at University of Wisconsin-Madison. It has been 
 
 My research interests include machine learning, human activity recognition (HAR), 3D human pose estimation (HPE), transfer learning for user-specific applications and algorithm design for smart healthcare.
 
-I am enthusiastic in learning new technology including but not limited to ML/CV/NLP. Welcome to my website and free feel to contact me at sizhe.an@wisc.edu
+I am enthusiastic in learning new technology including but not limited to ML/CV/NLP. Welcome to my website and free feel to contact me at [sizhe.an@wisc.edu](mailto:sizhe.an@wisc.edu)
 
 News
 ------
