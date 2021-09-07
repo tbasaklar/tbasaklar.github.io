@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Sizhe_CV](https://drive.google.com/file/d/1cOvPjRXteG31STObFpQhx9TjJorxqkRV/view?usp=sharing)  (Last updated: Sep 2021)
+======
 Education
 ======
 * Ph.D in Computer Engineering, University of Wisconsin-Madison, 2023 (expected)
