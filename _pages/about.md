@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-I am a third-year Ph.D. student at University of Wisconsin-Madison. It has been a great pleasure to be advised by [Prof. Umit Y. Ogras](https://scholar.google.com/citations?user=pVo_-KEAAAAJ). Prior to UW, I received my B.S. from University of Electronic Science and Technology of China (UESTC). Currently, I am working on computer vision as a summer intern at [Ambarella](https://www.ambarella.com/).
+I am a fourth-year Ph.D. student at University of Wisconsin-Madison. It has been a great pleasure to be advised by [Prof. Umit Y. Ogras](https://scholar.google.com/citations?user=pVo_-KEAAAAJ). Prior to UW, I received my B.S. from University of Electronic Science and Technology of China (UESTC). I worked on computer vision as a summer intern at [Ambarella](https://www.ambarella.com/).
 
 My research interests include machine learning, human activity recognition (HAR), 3D human pose estimation (HPE), transfer learning for user-specific applications and algorithm design for smart healthcare.
 
@@ -17,13 +17,13 @@ I am enthusiastic in learning new technology including but not limited to ML/CV/
 
 News
 ------
-- August 2021: Paper accepted for publication in ACM Transactions on Internet of Things (TIOT) [[arXiv](https://arxiv.org/abs/2102.11895)]
+- September 2021: Paper accepted for publication in ACM Transactions on Internet of Things (TIOT), and journal-track paper presentation in ACM SenSys 2021 (**Acceptance rate: 8/49 ≈ 16%**) [[arXiv](https://arxiv.org/abs/2102.11895)]
 - July 2021: MARS got nominated for **best paper award**! [[Program](https://whova.com/embedded/session/eswe_202110/1860620)]
 - July 2021: Paper accepted for publication in EMBEDDED SYSTEMS WEEK 2021 [[github](https://github.com/SizheAn/MARS)]
 - June 2021: Joined [Ambarella](https://www.ambarella.com/) as a computer vision intern
 - November 2020: Passed my qual exam!
 - June 2020: Transferred to UW-Madison from Arizona State
-- October 2019: **Best paper award** at EMBEDDED SYSTEMS WEEK 2019! (1/243)
+- October 2019: **Best paper award** at EMBEDDED SYSTEMS WEEK 2019! (1/75)
 
 Research Highlights
 ------
