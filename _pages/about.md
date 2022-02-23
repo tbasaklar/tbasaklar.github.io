@@ -17,6 +17,7 @@ I am enthusiastic in learning new technology including but not limited to ML/CV/
 
 News
 ------
+- February 2022: Paper accepted for publication in Design Automation Conference (DAC) 2022. Looks like it is in person! See y'all in SF! (**Acceptance rate: 23%**)
 - September 2021: Paper accepted for publication in ACM Transactions on Internet of Things (TIOT), and journal-track paper presentation in ACM SenSys 2021 (**Acceptance rate: 8/49 ≈ 16%**) [[arXiv](https://arxiv.org/abs/2102.11895)]
 - July 2021: MARS got nominated for **best paper award**! [[Program](https://whova.com/embedded/session/eswe_202110/1860620)]
 - July 2021: Paper accepted for publication in EMBEDDED SYSTEMS WEEK 2021 [[github](https://github.com/SizheAn/MARS)]
