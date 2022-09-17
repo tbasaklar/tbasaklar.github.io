@@ -9,15 +9,18 @@ redirect_from:
 ---
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-I am a fourth-year Ph.D. student at University of Wisconsin-Madison. It has been a great pleasure to be advised by [Prof. Umit Y. Ogras](https://scholar.google.com/citations?user=pVo_-KEAAAAJ). Prior to UW, I received my B.S. from University of Electronic Science and Technology of China (UESTC). I worked on computer vision as a summer intern at [Ambarella](https://www.ambarella.com/).
+I am a final-year Ph.D. candidate at University of Wisconsin-Madison. It has been a great pleasure to be advised by [Prof. Umit Y. Ogras](https://scholar.google.com/citations?user=pVo_-KEAAAAJ) and I also work closely with [Prof. Yin Li](https://www.biostat.wisc.edu/~yli/). Prior to UW, I received my B.S. from University of Electronic Science and Technology of China (UESTC). I worked as research intern on computer vision at [TikTok](https://www.tiktok.com) and [Ambarella](https://www.ambarella.com).
 
-My research interests include machine learning, human activity recognition (HAR), 3D human pose estimation (HPE), transfer learning for user-specific applications and algorithm design for smart healthcare.
+My research interests include machine learning, human activity recognition (HAR), 3D human pose estimation (HPE), multi-modal sensing, and algorithm design for smart healthcare.
 
-I am enthusiastic in learning new technology including but not limited to ML/CV/NLP. Welcome to my website and free feel to contact me at [sizhe.an@wisc.edu](mailto:sizhe.an@wisc.edu)
+**I am looking for full-time research position starting 2023 summer/fall.** Shoot me an email to [sizhe.an@wisc.edu](mailto:sizhe.an@wisc.edu) if you are interested in talking to me!
 
 News
 ------
-- February 2022: Paper accepted for publication in Design Automation Conference (DAC) 2022. Looks like it is in person! See y'all in SF! (**Acceptance rate: 23%**)
+- September 2022: mRI (multi-modal human pose estimation dataset) got accepted in NeurIPS 2022 Datasets & Benchmarks track! [Dataset](https://sizhean.github.io/mri) and [code](https://github.com/sizhean/mri) are partially released, give it a try!!
+- August 2022: Passed my prelim exam!
+- June 2022: Started research internship in TikTok working on 3D-aware full-head GAN!
+- February 2022: Paper accepted for publication in Design Automation Conference (DAC) 2022. See y'all in SF! (**Acceptance rate: 23%**)
 - September 2021: Paper accepted for publication in ACM Transactions on Internet of Things (TIOT), and journal-track paper presentation in ACM SenSys 2021 (**Acceptance rate: 8/49 ≈ 16%**) [[arXiv](https://arxiv.org/abs/2102.11895)]
 - July 2021: MARS got nominated for **best paper award**! [[Program](https://whova.com/embedded/session/eswe_202110/1860620)]
 - July 2021: Paper accepted for publication in EMBEDDED SYSTEMS WEEK 2021 [[github](https://github.com/SizheAn/MARS)]
@@ -28,23 +31,32 @@ News
 
 Research Highlights
 ------
+
+![mRI](/images/demo_gif_rotate.gif)
+
+**mRI: Multi-modal 3D Human Pose Estimation Dataset using mmWave, RGB-D, and Inertial Sensors**
+
+**Sizhe An**, Yin Li, and Umit Ogras. Accepted in **NeurIPS 2022 Datasets & Benchmarks Track** [[Dataset](https://sizhean.github.io/mri)][[code](https://github.com/sizhean/mri)][[Openreview](https://openreview.net/forum?id=Oa2-cdfBxun)]
+
+****
+
 ![MARS](/images/MARS.gif)
 **MARS: mmWave-based Assistive Rehabilitation System for Smart Healthcare**
 
-**Sizhe An** and Umit Ogras [[Accepted in ESWEEK 2021, oral presentation](https://github.com/SizheAn/MARS)]
+**Sizhe An** and Umit Ogras. CODES, ESWEEK 2021, oral presentation [[Paper](https://dl.acm.org/doi/fullHtml/10.1145/3477003)][[Code and data](https://github.com/SizheAn/MARS)]
 
 ****
 ![MGait](/images/exp_setup.png)
 
 **MGait: Model-Based Gait Analysis Using Wearable Bend and Inertial Sensors**
 
-**S An**, Y Tuncel, T Basaklar, GK Krishnakumar, G Bhat, U Ogras [Accepted for publication in ACM Transactions on Internet of Things (TIOT). [arXiv](https://arxiv.org/abs/2102.11895)]
+**S An**, Y Tuncel, T Basaklar, GK Krishnakumar, G Bhat, U Ogras. ACM Transactions on Internet of Things (TIOT) [[arXiv](https://arxiv.org/abs/2102.11895)][[Paper](https://dl.acm.org/doi/abs/10.1145/3485434)]
 
 
 ****
 **Transfer Learning for Human Activity Recognition using Representational Analysis of Neural Networks**
 
-**S An**, G Bhat, S Gumussoy, U Ogras [[arxiv](https://arxiv.org/abs/2012.04479)]
+**S An**, G Bhat, S Gumussoy, U Ogras. ACM Transactions on Computing for Healthcare.[[arXiv](https://arxiv.org/abs/2012.04479)][[code](https://github.com/SizheAn/transfer_learning_HAR)]
 
 
 ****
@@ -52,15 +64,16 @@ Research Highlights
 
 **An ultra-low energy human activity recognition accelerator for wearable health applications**
 
-G Bhat, Y Tuncel, **S An**, HG Lee, UY Ogras [Best paper award at ESWEEK 2019!](https://dl.acm.org/doi/pdf/10.1145/3358175)
+G Bhat, Y Tuncel, **S An**, HG Lee, UY Ogras. [Best paper award at ESWEEK 2019!](https://dl.acm.org/doi/pdf/10.1145/3358175)
 
 ****
 
 ![Trends](/images/application_percentagev3.PNG)
 
-**Trends in Technology Usage for Parkinson's Disease Assessment: A Systematic Review**
+**A Systematic Survey of Research Trends in Technology Usage for Parkinson’s Disease**
 
-R Deb, G Bhat, **S An**, U Ogras, H Shill [[medRxiv](https://www.medrxiv.org/content/10.1101/2021.02.01.21250939v1.full)]
+R Deb, G Bhat, **S An**, U Ogras, H Shill. [[Paper](https://www.mdpi.com/1424-8220/22/15/5491/pdf?version=1659593053)][[Code and data](https://github.com/SizheAn/Parkinson-s-Disease-Survey)]
+
 
 Visitors
 ------
