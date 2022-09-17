@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Sizhe_CV](https://drive.google.com/file/d/1cOvPjRXteG31STObFpQhx9TjJorxqkRV/view?usp=sharing)  (Last updated: Sep 2021)
+[Sizhe_CV](https://drive.google.com/file/d/1cOvPjRXteG31STObFpQhx9TjJorxqkRV/view?usp=sharing)  (Last updated: Sep 2022)
 
 Education
 ======
@@ -19,6 +19,10 @@ Education
 
 Work experience
 ======
+* Summer 2022: Research Intern
+  * TikTok
+  * 3D-aware Full Head GAN
+
 * Summer 2021: Computer Vision Intern
   * Ambarella
   * 3D Human Pose Estimation for RGB image with disparity
