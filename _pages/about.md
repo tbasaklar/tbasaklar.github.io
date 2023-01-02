@@ -9,22 +9,23 @@ redirect_from:
 ---
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-I am a final-year Ph.D. candidate at University of Wisconsin-Madison. It has been a great pleasure to be advised by [Prof. Umit Y. Ogras](https://scholar.google.com/citations?user=pVo_-KEAAAAJ) and I also work closely with [Prof. Yin Li](https://www.biostat.wisc.edu/~yli/). Prior to UW, I received my B.S. from University of Electronic Science and Technology of China (UESTC). I worked as research intern on computer vision at [TikTok](https://www.tiktok.com) and [Ambarella](https://www.ambarella.com).
+I am a final-year Ph.D. candidate at University of Wisconsin-Madison. It has been a great pleasure to be advised by [Prof. Umit Y. Ogras](https://scholar.google.com/citations?user=pVo_-KEAAAAJ) and I also work closely with [Prof. Yin Li](https://www.biostat.wisc.edu/~yli/). Prior to UW, I received my B.S. from University of Electronic Science and Technology of China (UESTC). During my Ph.D. study, I work as a research intern on computer vision field at [Meta (Reality Labs)](https://about.meta.com/realitylabs/), [TikTok](https://www.tiktok.com) and [Ambarella](https://www.ambarella.com).
 
-My research interests include machine learning, human activity recognition (HAR), 3D human pose estimation (HPE), multi-modal sensing, and algorithm design for smart healthcare.
+My research interests include ML/CV, human activity recognition (HAR), 3D human pose estimation (HPE), multi-modal sensing, NeRF, generative models, and smart healthcare algorithms.
 
-**I am looking for full-time research position starting 2023 summer/fall.** Shoot me an email to [sizhe.an@wisc.edu](mailto:sizhe.an@wisc.edu) if you are interested in talking to me!
+**I am looking for full-time research position starting 2023 fall.** Shoot me an email to [sizhe.an@wisc.edu](mailto:sizhe.an@wisc.edu) if you are interested in talking to me!
 
 News
 ------
-- September 2022: mRI (multi-modal human pose estimation dataset) got accepted in NeurIPS 2022 Datasets & Benchmarks track! [Dataset](https://sizhean.github.io/mri) and [code](https://github.com/sizhean/mri) are partially released, give it a try!!
+- December 2022: Started research internship in Meta Reality Labs working on NeRF for device generalization!
+- November 2022: Finished Tiktok internship with two CVPR 2023 manuscripts submitted and one U.S. patent filed.
+- September 2022: mRI (multi-modal human pose estimation dataset) got accepted in **NeurIPS 2022**! [Dataset](https://sizhean.github.io/mri) and [code](https://github.com/sizhean/mri) are partially released, give it a try!!
 - August 2022: Passed my prelim exam!
 - June 2022: Started research internship in TikTok working on 3D-aware full-head GAN!
-- February 2022: Paper accepted for publication in Design Automation Conference (DAC) 2022. See y'all in SF! (**Acceptance rate: 23%**)
+- February 2022: Paper accepted for publication in Design Automation Conference (DAC) 2022. See y'all in SF! (**Acceptance rate: 23%**) [[paper](https://dl.acm.org/doi/10.1145/3489517.3530522)]
 - September 2021: Paper accepted for publication in ACM Transactions on Internet of Things (TIOT), and journal-track paper presentation in ACM SenSys 2021 (**Acceptance rate: 8/49 ≈ 16%**) [[arXiv](https://arxiv.org/abs/2102.11895)]
-- July 2021: MARS got nominated for **best paper award**! [[Program](https://whova.com/embedded/session/eswe_202110/1860620)]
-- July 2021: Paper accepted for publication in EMBEDDED SYSTEMS WEEK 2021 [[github](https://github.com/SizheAn/MARS)]
-- June 2021: Joined [Ambarella](https://www.ambarella.com/) as a computer vision intern
+- July 2021: MARS got nominated for **best paper award**! [[github](https://github.com/SizheAn/MARS)]
+- June 2021: Joined [Ambarella](https://www.ambarella.com/) as a computer vision intern.
 - November 2020: Passed my qual exam!
 - June 2020: Transferred to UW-Madison from Arizona State
 - October 2019: **Best paper award** at EMBEDDED SYSTEMS WEEK 2019! (1/75)
