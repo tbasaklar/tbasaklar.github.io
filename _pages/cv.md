@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Sizhe_CV](https://drive.google.com/file/d/1cOvPjRXteG31STObFpQhx9TjJorxqkRV/view?usp=sharing)  (Last updated: Sep 2022)
+Check my CV here: [Sizhe_CV](https://drive.google.com/file/d/1cOvPjRXteG31STObFpQhx9TjJorxqkRV/view?usp=sharing)  (Last updated: Jan 2023)
 
 Education
 ======
@@ -19,13 +19,17 @@ Education
 
 Work experience
 ======
+* Spring 2023: Research Intern
+  * Meta (Reality Labs)
+  * NeRF for Device Generalization
+  
 * Summer 2022: Research Intern
   * TikTok
   * 3D-aware Full Head GAN
 
 * Summer 2021: Computer Vision Intern
   * Ambarella
-  * 3D Human Pose Estimation for RGB image with disparity
+  * 3D Human Pose Estimation for RGB Image for Autonomous Driving
   
 Skills
 ======
@@ -43,11 +47,11 @@ Skills
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Teaching
 ======
