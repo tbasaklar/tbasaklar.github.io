@@ -17,6 +17,7 @@ My research interests include ML/CV, human activity recognition (HAR), 3D human 
 
 News
 ------
+- February 2022: Two papers accepted to CVPR 2023 and one paper accepted to DAC 2023!
 - December 2022: Started research internship in Meta Reality Labs working on NeRF for device generalization!
 - November 2022: Finished Tiktok internship with two CVPR 2023 manuscripts submitted and one U.S. patent filed.
 - September 2022: mRI (multi-modal human pose estimation dataset) got accepted in **NeurIPS 2022**! [Dataset](https://sizhean.github.io/mri) and [code](https://github.com/sizhean/mri) are partially released, give it a try!!
