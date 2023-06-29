@@ -13,13 +13,12 @@ I am a final-year Ph.D. candidate at University of Wisconsin-Madison. It has bee
 
 My research interests include ML/CV, human activity recognition (HAR), 3D human pose estimation (HPE), multi-modal sensing, NeRF, generative models, and smart healthcare algorithms.
 
-**I am looking for full-time research position starting 2023 fall.** Shoot me an email to [sizhe.an@wisc.edu](mailto:sizhe.an@wisc.edu) if you are interested in talking to me!
+Shoot me an email to [sizhe.an@wisc.edu](mailto:sizhe.an@wisc.edu) if you are interested in talking to me!
 
 News
 ------
-- February 2022: Two papers accepted to **CVPR 2023** ([PanoHead](https://sizhean.github.io/panohead) and [Panic-3D](https://github.com/ShuhongChen/panic3d-anime-reconstruction)) and one paper accepted to **DAC 2023**!
+- February 2022: Two papers accepted to **CVPR 2023** ([PanoHead](https://sizhean.github.io/panohead) ![stars](https://img.shields.io/github/stars/sizhean/panohead.svg) and [Panic-3D](https://github.com/ShuhongChen/panic3d-anime-reconstruction) ![stars](https://img.shields.io/github/stars/ShuhongChen/panic3d-anime-reconstruction.svg) ) and one paper accepted to **DAC 2023**!
 - December 2022: Started research internship in Meta Reality Labs working on NeRF for device generalization!
-- November 2022: Finished Tiktok internship with two CVPR 2023 manuscripts submitted and one U.S. patent filed.
 - September 2022: mRI (multi-modal human pose estimation dataset) got accepted in **NeurIPS 2022**! [Dataset](https://sizhean.github.io/mri) and [code](https://github.com/sizhean/mri) are partially released, give it a try!!
 - August 2022: Passed my prelim exam!
 - June 2022: Started research internship in TikTok working on 3D-aware full-head GAN!
@@ -38,7 +37,7 @@ Research Highlights
 
 **PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360°**
 
-**Sizhe An**, Hongyi Xu, Yichun Shi, Guoxian Song, Umit Ogras, and Linjie Luo. Accepted in **CVPR 2023** [[Paper](https://arxiv.org/abs/2303.13071)][[Page](https://sizhean.github.io/panohead)]
+**Sizhe An**, Hongyi Xu, Yichun Shi, Guoxian Song, Umit Ogras, and Linjie Luo. Accepted in **CVPR 2023** [[Paper](https://arxiv.org/abs/2303.13071)][[Page](https://sizhean.github.io/panohead)][[Code](https://github.com/sizhean/panohead)]
 
 ****
 
