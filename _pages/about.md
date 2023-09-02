@@ -16,8 +16,6 @@ Shoot me an email at [basaklar@wisc.edu](mailto:basaklar@wisc.edu) if you are in
 Research Highlights
 ------
 
-#![PanoHead](/images/panohead_overview-min.gif)
-
 **DTRL: Decision Tree-based Multi-Objective Reinforcement Learning for Runtime Task Scheduling in Domain-Specific System-on-Chips**
 
 **Toygun Basaklar**, A. Alper Goksoy, Anish Krishnakumar, Suat Gumussoy, Umit Y. Ogras. Accepted in **ESWEEK 2023** 
@@ -45,8 +43,3 @@ Yigit Tuncel, **Toygun Basaklar**, Dina Carpenter-Graffy, Umit Y. Ogras. Accepte
 **tinyMAN: Lightweight Energy Manager using Reinforcement Learning for Energy Harvesting Wearable IoT Devices**
 
 **Toygun Basaklar**, Yigit Tuncel, Umit Y. Ogras. Accepted in **RL4RealLife Workshop NeurIPS 2022** and **tinyML Research Symposium 2022**[[Paper](https://arxiv.org/abs/2202.09297)]
-
-
-Visitors
-------
-<a href="https://clustrmaps.com/site/1bky6"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=EzQPjyqnIpb7BYanqoETELUvUuABRalnktMjftT3-_s&cl=ffffff" /></a>
