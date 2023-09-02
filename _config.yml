@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sizhe An / Ph.D. student"
+title                    : "Toygun Basaklar / Ph.D. candidate"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://sizhean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tbasaklar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sizhean/academicpages.github.io"
+repository               : "tbasaklar/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sizhe An"
+  name             : "Toygun Basaklar"
   avatar           : "profile.jpg"
-  bio              : "Final-year Ph.D. candidate in ML/CV/Smart Health"
-  location         : "Seattle, WA"
+  bio              : "Final-year Ph.D. candidate"
+  location         : "Madison, WI"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=BnLPh4YAAAAJ&hl=en"
-  email            : "sizhe.an@wisc.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=VWortN4AAAAJ&hl=en"
+  email            : "tbasaklar@wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SizheAn"
+  github           : "tbasaklar"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/toygun-basaklar-2757909a"
   orcid            : 
   pinterest        :
   soundcloud       :
