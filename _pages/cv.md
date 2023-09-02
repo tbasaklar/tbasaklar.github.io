@@ -9,37 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Check my CV here: [Sizhe_CV](https://drive.google.com/file/d/1cOvPjRXteG31STObFpQhx9TjJorxqkRV/view?usp=sharing)  (Last updated: Jan 2023)
-
-Education
-======
-* Ph.D in Computer Engineering, University of Wisconsin-Madison, 2023 (expected)
-* B.S. in Electrical Engineering, University of Electronic Science and Technology of China, 2018
-
-
-Work experience
-======
-* Spring 2023: Research Intern
-  * Meta (Reality Labs)
-  * NeRF for Device Generalization
-  
-* Summer 2022: Research Intern
-  * TikTok
-  * 3D-aware Full Head GAN
-
-* Summer 2021: Computer Vision Intern
-  * Ambarella
-  * 3D Human Pose Estimation for RGB Image for Autonomous Driving
-  
-Skills
-======
-* Programming Language
-  * Python
-  * Java 
-* Machine Learning Framework
-  * Pytorch
-  * Tensorflow
-  * Sklearn
+Check my CV here: [Toygun Basaklar_CV](https://www.dropbox.com/scl/fi/gv1xit0x1vyavd84owxip/Toygun_Basaklar_CV.pdf?rlkey=l5ehkkxqv245gvepdoqnv7del&dl=0)  (Last updated: August 2023)
 
 <!-- Publications
 ======
