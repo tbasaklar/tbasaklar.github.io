@@ -18,13 +18,13 @@ Research Highlights
 
 **DTRL: Decision Tree-based Multi-Objective Reinforcement Learning for Runtime Task Scheduling in Domain-Specific System-on-Chips**
 
-**Toygun Basaklar**, A. Alper Goksoy, Anish Krishnakumar, Suat Gumussoy, Umit Y. Ogras. Accepted in **ESWEEK 2023** 
+**Toygun Basaklar**, A. Alper Goksoy, Anish Krishnakumar, Suat Gumussoy, Umit Y. Ogras. Oral and Poster Presentation at **ESWEEK 2023** [[Paper](https://dl.acm.org/doi/full/10.1145/3609108)] 
 
 ****
 
 **A Self-Sustained CPS Design for Reliable Wildfire Monitoring**
 
-Yigit Tuncel, **Toygun Basaklar**, Dina Carpenter-Graffy, Umit Y. Ogras. Accepted in **ESWEEK 2023** 
+Yigit Tuncel, **Toygun Basaklar**, Dina Carpenter-Graffy, Umit Y. Ogras. Oral and Poster Presentation at **ESWEEK 2023** [[Paper](https://dl.acm.org/doi/full/10.1145/3608100)]
 
 ****
 
