@@ -16,6 +16,8 @@ Shoot me an email at [basaklar@wisc.edu](mailto:basaklar@wisc.edu) if you are in
 Research Highlights
 ------
 
+![DTRL](/images/github_pic.png)
+
 **DTRL: Decision Tree-based Multi-Objective Reinforcement Learning for Runtime Task Scheduling in Domain-Specific System-on-Chips**
 
 **Toygun Basaklar**, A. Alper Goksoy, Anish Krishnakumar, Suat Gumussoy, Umit Y. Ogras. Oral and Poster Presentation at **ESWEEK 2023** [[Paper](https://dl.acm.org/doi/full/10.1145/3609108)] 
