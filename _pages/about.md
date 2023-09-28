@@ -39,6 +39,7 @@ Yigit Tuncel, **Toygun Basaklar**, Dina Carpenter-Graffy, Umit Y. Ogras. Oral an
 **Toygun Basaklar**, Suat Gumussoy, Umit Y. Ogras. Accepted in **ICLR 2023** and Presented in **Deep Reinforcement Learning Workshop NeurIPS 2022**[[Paper](https://arxiv.org/abs/2208.07914)][[Code](https://github.com/tbasaklar/PDMORL-Preference-Driven-Multi-Objective-Reinforcement-Learning-Algorithm)]
 
 ****
+![GEMRL](/images/Overview_new.svg)
 
 **GEM-RL: Generalized Energy Management of Wearable Devices using Reinforcement Learning**
 
