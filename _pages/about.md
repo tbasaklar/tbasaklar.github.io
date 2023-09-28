@@ -32,7 +32,7 @@ Yigit Tuncel, **Toygun Basaklar**, Dina Carpenter-Graffy, Umit Y. Ogras. Oral an
 
 ****
 
-![PDMORL](/images/Videos.gif)
+![PDMORL](/images/video_github.gif)
 
 **PD-MORL: Preference-Driven Multi-Objective Reinforcement Learning Algorithm**
 
