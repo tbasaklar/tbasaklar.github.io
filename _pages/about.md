@@ -24,6 +24,8 @@ Research Highlights
 
 ****
 
+![Wildfire](/images/wildfire_overview.svg)
+
 **A Self-Sustained CPS Design for Reliable Wildfire Monitoring**
 
 Yigit Tuncel, **Toygun Basaklar**, Dina Carpenter-Graffy, Umit Y. Ogras. Oral and Poster Presentation at **ESWEEK 2023** [[Paper](https://dl.acm.org/doi/full/10.1145/3608100)]
