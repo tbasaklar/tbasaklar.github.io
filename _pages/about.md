@@ -13,7 +13,8 @@ I am a final-year Ph.D. candidate at the University of Wisconsin-Madison. I am e
 
 Shoot me an email at [basaklar@wisc.edu](mailto:basaklar@wisc.edu) if you are interested in talking to me!
 
-Research Highlights
+**Research Highlights**
+
 ***
 
 ![DTRL](/images/github_pic.png)
