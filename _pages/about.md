@@ -15,7 +15,7 @@ Shoot me an email at [basaklar@wisc.edu](mailto:basaklar@wisc.edu) if you are in
 
 **Research Highlights**
 
-***
+---
 
 ![DTRL](/images/github_pic.png)
 
