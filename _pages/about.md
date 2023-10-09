@@ -50,3 +50,5 @@ Yigit Tuncel, **Toygun Basaklar**, Dina Carpenter-Graffy, Umit Y. Ogras. Oral an
 **tinyMAN: Lightweight Energy Manager using Reinforcement Learning for Energy Harvesting Wearable IoT Devices**
 
 **Toygun Basaklar**, Yigit Tuncel, Umit Y. Ogras. Accepted in **RL4RealLife Workshop NeurIPS 2022** and **tinyML Research Symposium 2022**[[Paper](https://arxiv.org/abs/2202.09297)]
+
+***
