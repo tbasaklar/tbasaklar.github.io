@@ -16,7 +16,7 @@ I have in-depth knowledge of reinforcement learning algorithms and have publishe
 - 5+ years of experience in reinforcement learning and its applications,
 - 3+ years of expertise in energy management, encompassing convex optimization and reinforcement learning,
 - Proficient in initiating, advancing, and concluding research projects, notably with DARPA and NSF,
-- Authorship of 10+ conference papers at top-tier venues, underlining my research acumen and dedication, \href{https://scholar.google.com/citations?user=VWortN4AAAAJ&hl=en}{Google Scholar Link}
+- Authorship of 10+ conference papers at top-tier venues, underlining my research acumen and dedication
 - Excellent communication and presentation skills, verbal and written, with technical and non-technical audiences, demonstrated through mentorship experiences, and academic publications.
 
 I am actively seeking a full-time position with a strong desire to apply my expertise, enthusiasm, and track record of accomplishments to drive innovation in machine learning and artificial intelligence through involvement in cutting-edge projects.
