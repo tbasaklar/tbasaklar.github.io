@@ -14,7 +14,7 @@ I am a final-year Ph.D. candidate at the University of Wisconsin-Madison. I am e
 Shoot me an email at [basaklar@wisc.edu](mailto:basaklar@wisc.edu) if you are interested in talking to me!
 
 Research Highlights
-------
+---
 
 ![DTRL](/images/github_pic.png)
 
@@ -22,7 +22,7 @@ Research Highlights
 
 **Toygun Basaklar**, A. Alper Goksoy, Anish Krishnakumar, Suat Gumussoy, Umit Y. Ogras. Oral and Poster Presentation at **ESWEEK 2023** [[Paper](https://dl.acm.org/doi/full/10.1145/3609108)] 
 
-****
+***
 
 ![Wildfire](/images/wildfire_overview.svg)
 
@@ -30,7 +30,7 @@ Research Highlights
 
 Yigit Tuncel, **Toygun Basaklar**, Dina Carpenter-Graffy, Umit Y. Ogras. Oral and Poster Presentation at **ESWEEK 2023** [[Paper](https://dl.acm.org/doi/full/10.1145/3608100)]
 
-****
+***
 
 ![PDMORL](/images/video_github.gif)
 
@@ -38,14 +38,14 @@ Yigit Tuncel, **Toygun Basaklar**, Dina Carpenter-Graffy, Umit Y. Ogras. Oral an
 
 **Toygun Basaklar**, Suat Gumussoy, Umit Y. Ogras. Accepted in **ICLR 2023** and Presented in **Deep Reinforcement Learning Workshop NeurIPS 2022**[[Paper](https://arxiv.org/abs/2208.07914)][[Code](https://github.com/tbasaklar/PDMORL-Preference-Driven-Multi-Objective-Reinforcement-Learning-Algorithm)]
 
-****
+***
 ![GEMRL](/images/Overview_new.svg)
 
 **GEM-RL: Generalized Energy Management of Wearable Devices using Reinforcement Learning**
 
 **Toygun Basaklar**, Yigit Tuncel, Umit Y. Ogras. Oral and Poster Presentation at **DATE 2023** [[Paper](https://ieeexplore.ieee.org/abstract/document/10137228)]
 
-****
+***
 
 **tinyMAN: Lightweight Energy Manager using Reinforcement Learning for Energy Harvesting Wearable IoT Devices**
 
