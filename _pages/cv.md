@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Check my CV here: [Toygun Basaklar CV](https://www.dropbox.com/scl/fi/xnvexean5fqhcjijonh1g/Toygun_Basaklar_CV_ML.pdf?rlkey=zoeavr0087yfleu6tgk503yxd&dl=0)  (Last updated: March 2024)
+Check my CV here: [Toygun Basaklar CV](https://www.dropbox.com/scl/fi/u9ahgfqgdqkja6opdj3um/Toygun_Basaklar_CV_ML.pdf?rlkey=7f19ym7tnryt2w3r0rqm7nhl8&dl=0)  (Last updated: March 2024)
 
 <!-- Publications
 ======
